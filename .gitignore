@@ -1,0 +1,26 @@
+# Secretos
+.env
+.env.*
+
+# Dataset generado (se sube al HF Hub, no al repo)
+data/dataset_sxf.jsonl
+data/errores.json
+data/progress.json
+data/test_output.jsonl
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Editores
+.vscode/
+.idea/
+*.swp

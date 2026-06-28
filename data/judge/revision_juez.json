@@ -1,0 +1,3488 @@
+[
+  {
+    "aprobado": false,
+    "puntuacion": 4,
+    "problemas": [
+      "Usa analogía del anime (Bond) para explicar un concepto de Python",
+      "El ejemplo de Bond como analogía viola la regla prohibida de usar elementos de Spy x Family para explicar conceptos"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta incluye una analogía prohibida al comparar un lenguaje de programación con las órdenes que Bond entiende. Aunque el resto de la explicación es correcta (referencias a recetas, palabras mágicas), el inicio con Bond contamina el concepto. La referencia a Bond aquí es una ANALOGÍA DE CONCEPTO (no una referencia ambiental casual), porque se usa para explicar QUÉ es un lenguaje de programación. Sugerencia: Eliminar la mención a Bond y mantener solo la analogía de la receta de galletas: '¿Un lenguaje de programación? Imagina que quieres que alguien siga una receta. No puedes decir simplemente '¡Haz una galleta!', tienes que dar instrucciones claras, paso a paso: mezcla harina, agrega huevos, etc. Un lenguaje de programación es lo mismo: son palabras especiales para darle instrucciones detalladas al ordenador.'",
+    "indice": 0,
+    "tokens_input": 1406,
+    "tokens_output": 429
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Mención de 'colegio Eden' que es una referencia al universo de Spy x Family en contexto de explicación",
+      "La referencia a 'papá' está integrada en la explicación en lugar de ser meramente ambiental"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta tiene buena estructura socrática y personalidad correcta, pero hay dos problemas: (1) 'colegio Eden' es un nombre directo del universo de Spy x Family que no debería aparecer en contexto de ejemplos. Cambiar a 'colegio' a secas. (2) La frase '¡Papá siempre escribe listas!' mezcla la referencia ambiental con la explicación conceptual. Separar mejor: primero explicar el concepto con la analogía de 'lista de tareas', luego hacer un comentario ambiental independiente como '¡Anya piensa que esto es como cuando papá organiza sus cosas!' Así la referencia no sustituye ni refuerza la analogía del concepto.",
+    "indice": 1,
+    "tokens_input": 1357,
+    "tokens_output": 384
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 2,
+    "tokens_input": 1348,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 3,
+    "tokens_input": 1352,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 4,
+    "tokens_input": 1360,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 5,
+    "tokens_input": 1387,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Usa una analogía del universo de Spy x Family para explicar un concepto de Python",
+      "La explicación mezcla referencia ambiental con explicación técnica de forma inapropiada"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "El problema está en esta frase: 'Es como si Anya le diera una lista de tareas a papá para que la lea'. Esta es una analogía del universo de Spy x Family usada para explicar la relación entre algoritmo y código. Debe reemplazarse con un ejemplo cotidiano y neutral. Sugerencia: 'Es como si tuvieras una receta (el algoritmo) y la escribes paso a paso en español para que alguien la pueda seguir (el código). La receta es la idea, el código es cómo lo escribes para que se entienda.' De esta forma se mantiene la personalidad de Anya con '¡Waku waku!' y se separa la referencia ambiental de la explicación técnica.",
+    "indice": 6,
+    "tokens_input": 1375,
+    "tokens_output": 369
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 7,
+    "tokens_input": 1401,
+    "tokens_output": 137
+  },
+  {
+    "indice": 8,
+    "aprobado": null,
+    "error": "JSON inválido: Extra data: line 15 column 1 (char 331)",
+    "respuesta_cruda": "{\n  \"aprobado\": true,\n  \"puntuacion\": 9,\n  \"problemas\": [],\n  \"detalle\": {\n    \"personalidad_correcta\": true,\n    \"analogia_anime_en_explicacion\": false,\n    \"referencia_ambiental_correcta\": true,\n    \"enfoque_socratico\": true,\n    \"python_correcto\": true,\n    \"tiene_ejercicio_final\": true\n  },\n  \"s"
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 3,
+    "problemas": [
+      "Usa analogía del anime para explicar un concepto de Python (el símbolo # comparado con 'notas secretas como Anya dibuja para Becky')",
+      "Menciona a Eden (locación prohibida del universo de Spy x Family) como analogía de aprendizaje",
+      "La explicación principal está basada en una analogía del universo narrativo en lugar de ejemplos cotidianos neutrales"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "REESCRIBIR LA EXPLICACIÓN: Reemplaza la analogía de 'notas secretas como Anya dibuja para Becky' con un ejemplo cotidiano neutro como 'es como dejar una nota en la agenda escolar' o 'como escribir una nota en el margen de una receta'. Elimina la referencia a Eden. Opcionalmente, puedes mantener una referencia ambiental SEPARADA al final (ej: 'Anya tuvo un día largo en la escuela, pero esto es más fácil que memorizar fechas') pero la explicación técnica del # debe basarse únicamente en ejemplos del día a día universales.",
+    "indice": 9,
+    "tokens_input": 1416,
+    "tokens_output": 400
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 10,
+    "tokens_input": 1468,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 11,
+    "tokens_input": 1447,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 4,
+    "problemas": [
+      "Uso de analogía del anime para explicar un concepto (comparación con el colegio Eden)",
+      "Referencia ambiental ('como cuando Anya quiere decir algo fuerte para que todos escuchen en el colegio Eden') está mezclada con la explicación del concepto, violando la regla de separación",
+      "Nombre prohibido 'Eden' usado en contexto de explicación conceptual"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "Eliminar la analogía del colegio Eden. Reformular así: '¡Waku waku! ¡Hola! ¡Qué emoción que quieras aprender Python! Anya tuvo un día largo en el colegio, pero esto es mucho más divertido. Para que la computadora muestre tus palabras en la pantalla, existe una palabrita mágica especial. Piensa en cómo le darías una orden a alguien: si quieres que muestre un mensaje, ¿qué palabra podrías usar? ¡Intenta que la pantalla diga \"¡Hola mundo!\" y cuéntale a Anya qué palabra usaste!'",
+    "indice": 12,
+    "tokens_input": 1398,
+    "tokens_output": 414
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 13,
+    "tokens_input": 1394,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 4,
+    "problemas": [
+      "Uso de analogía del anime para explicar un concepto de Python",
+      "La explicación usa la relación papá-Anya como analogía para explicar input()",
+      "Referencia ambiental mezclada con la explicación conceptual, violando la separación requerida"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "Eliminar la analogía 'Es como cuando Anya le pregunta a papá qué va a cenar, y papá le contesta' y reemplazarla con un ejemplo neutral como 'Es como cuando te haces una pregunta en tu cuaderno y dejas un espacio para escribir la respuesta'. La metáfora de la 'orejita muy grande' también debe cambiar a algo neutral como 'esperar a que escribas algo en el teclado'. Mantener el enfoque socrático (excelente) y la personalidad de Anya, pero desvinculando completamente las explicaciones conceptuales de referencias del universo Spy x Family.",
+    "indice": 14,
+    "tokens_input": 1403,
+    "tokens_output": 366
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Usa analogía del anime (Becky y la mochila) para explicar un concepto de Python",
+      "La explicación de variables usa 'regalo' como analogía en lugar de ejemplo cotidiano neutro",
+      "No muestra código Python de ejemplo",
+      "La pregunta de seguimiento es vaga y no guía claramente al concepto de variables/input()"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": false,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta debe eliminar la analogía de 'Becky guardando dibujos en su mochila'. Sustituir por: 'Cuando escribes algo, la computadora lo guarda en una cajita con etiqueta (una variable). Por ejemplo, si escribes tu nombre, se guarda en una cajita etiquetada nombre=\"Peanut\". Luego puedes usar esa etiqueta para recuperar lo que escribiste.' Luego mostrar código: `nombre = input(\"¿Cuál es tu nombre?\")` y preguntar: '¿Qué crees que hace input()? ¿Y qué hace el símbolo = aquí?' Mantener la personalidad de Anya con waku waku y referencias a su día escolar, pero separadas de la explicación técnica.",
+    "indice": 15,
+    "tokens_input": 1417,
+    "tokens_output": 423
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 16,
+    "tokens_input": 1357,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 4,
+    "problemas": [
+      "Usa analogía del anime para explicar conceptos: 'papá' (Loid) como referencia en la explicación de float",
+      "Usa analogía del anime para explicar conceptos: 'Becky' como referencia en la explicación de int",
+      "La explicación de 'tipos de datos' mediante 'juguetes' es confusa y no clarifica el concepto",
+      "El ejercicio final es poco práctico: 'guardar edad como float si tuvieras mitad de año' no es un caso de uso realista"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "Las referencias a 'papá' (Loid) y 'Becky' están dentro de las explicaciones de conceptos técnicos (int y float), lo que viola la regla de prohibición de analogías. Aunque son referencias ambientales, están siendo usadas para explicar qué son los tipos de datos. Corrección: Reemplaza 'como cuántos amigos tiene Becky (1, 2, 3)' con 'como 5, 10, 100' y 'como la altura de papá (1.87)' con 'como 1.5, 2.7, 3.14'. Mantén las muletillas de Anya y el tono infantil, pero separa las referencias ambientales de las explicaciones técnicas. El ejercicio final debería ser más realista: 'Guarda el número de libros que leíste en una variable. ¿Qué tipo de dato usarías? ¿Por qué?'",
+    "indice": 17,
+    "tokens_input": 1437,
+    "tokens_output": 500
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 18,
+    "tokens_input": 1441,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Uso de referencia prohibida 'Eden' en la explicación del concepto",
+      "Uso de nombre prohibido 'Bond' en el ejemplo de variable",
+      "La referencia ambiental está integrada en la explicación del concepto, no separada"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "Reemplaza 'como las del colegio Eden' por una comparación completamente neutra (ej: 'como las reglas de cualquier idioma'). Cambia el ejemplo 'mi_perro_bond' por algo neutro como 'mi_perro_mascota' o simplemente 'mi_perro'. La mención a Eden y Bond viola la regla 2 porque están ubicadas directamente en la explicación del concepto de nombres de variables, no como una referencia ambiental separada.",
+    "indice": 19,
+    "tokens_input": 1413,
+    "tokens_output": 322
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 20,
+    "tokens_input": 1391,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 21,
+    "tokens_input": 1411,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 4,
+    "problemas": [
+      "Usa referencia a 'Eden' (nombre prohibido del universo Spy x Family) en contexto de explicación de concepto",
+      "La explicación es vaga y no clara sobre cuál es la función específica (float()) que resuelve el problema",
+      "Usa metáfora de 'cajita mágica' que no ayuda a entender el concepto técnico de conversión de tipos",
+      "El ejercicio final es confuso y mezcla conceptos (input, conversión, y operaciones) sin claridad progresiva"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "Reescribir eliminando la referencia a 'Eden' completamente. Cambiar la explicación de 'cajita mágica' por: 'Python tiene una herramienta llamada float() que convierte texto con números decimales en números reales que puedes usar para matemáticas'. Ejemplo cotidiano correcto: 'Como si tuvieras una etiqueta que dice \"3.14\" y necesitas convertirla en el número real 3.14 para hacer cálculos'. Luego plantear un ejercicio más simple: '¿Qué código usarías para convertir el texto \"2.5\" en un número real y multiplicarlo por 2?'",
+    "indice": 22,
+    "tokens_input": 1398,
+    "tokens_output": 429
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 4,
+    "problemas": [
+      "Usa analogía del anime para explicar un concepto de Python (Becky y Anya disfrazándose)",
+      "La explicación de conversión de tipos es confusa e imprecisa técnicamente",
+      "Mezcla la referencia ambiental con la explicación del concepto, violando la separación requerida"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "Reemplazar la analogía de disfrazarse con Becky por un ejemplo cotidiano neutral. Por ejemplo: 'Imagina que tienes una caja con el número 7 adentro y otra con la palabra \"galletas\". Para unirlas en una sola frase, necesitas sacar el número de su caja y convertirlo en palabras también. ¿Conoces alguna función de Python que pueda hacer eso?' Las referencias a Becky, disfrazarse y jugar juntas deben eliminarse de la explicación técnica. Anya puede mencionar su día en el colegio DESPUÉS de la explicación del concepto, pero no mezclarlo con ella.",
+    "indice": 23,
+    "tokens_input": 1435,
+    "tokens_output": 382
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 24,
+    "tokens_input": 1426,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Uso de referencia ambiental (Becky y Anya compartiendo chocolates) como parte de la explicación del concepto de división",
+      "La referencia a personajes y situaciones de Spy x Family está entrelazada con la explicación técnica, no separada",
+      "El ejercicio final usa contexto personal (caramelos de Anya) en lugar de ejemplos neutros puros"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta tiene buena estructura y la personalidad de Anya es correcta. Sin embargo, viola la regla 3: la frase 'Es como Becky y Anya compartiendo los chocolates de la merienda' mezcla una referencia ambiental dentro de la explicación del concepto de división. Debería separarse. Sugerencia: mantener la explicación técnica completamente neutral ('10 pegatinas entre 2 amigos') y luego hacer un comentario ambiental separado DESPUÉS, como: 'Anya tiene un día largo en el colegio, pero ¡esto es más divertido que repartir caramelos!' El ejercicio final también debería usar ejemplos más neutros en lugar de 'bolsas de caramelos de Anya'.",
+    "indice": 25,
+    "tokens_input": 1438,
+    "tokens_output": 424
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 26,
+    "tokens_input": 1435,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Referencia ambiental incorrecta: 'escuela Eden' es un lugar del universo de Spy x Family que viola la regla de no usar nombres/lugares del anime",
+      "Analogía del anime para explicar concepto: 'como en la escuela Eden' y 'No puedes comer el postre antes de la sopa' intenta conectar el concepto de orden de operaciones con la vida del personaje de manera que explica el concepto a través del universo del anime"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta debe eliminar la referencia a 'escuela Eden' y la analogía de 'postre antes de la sopa'. Reemplazar con: 'Anya tuvo un día largo en el colegio hoy, pero ¡esto es más interesante! Python tiene reglas para el orden de las operaciones, igual que en matemáticas. Primero se hacen las cosas entre paréntesis ()...' La analogía del postre/sopa no es neutral porque explica el concepto a través de la vida cotidiana del personaje en el universo del anime. Una referencia ambiental correcta sería mencionar cómo Anya se siente, pero mantener la explicación completamente separada y con ejemplos neutros como 'como cuando organizas tareas en casa: primero ciertas cosas, luego otras'.",
+    "indice": 27,
+    "tokens_input": 1408,
+    "tokens_output": 455
+  },
+  {
+    "indice": 28,
+    "aprobado": null,
+    "error": "JSON inválido: Unterminated string starting at: line 18 column 28 (char 657)",
+    "respuesta_cruda": "{\n  \"aprobado\": false,\n  \"puntuacion\": 6,\n  \"problemas\": [\n    \"Usa una analogía del anime (papá diciendo 'sí' y comer maní) para explicar el concepto de condicionales\",\n    \"La analogía de la caja de juguetes es un poco confusa para explicar indentación\",\n    \"No muestra código Python de ejemplo\",\n"
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 29,
+    "tokens_input": 1440,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 30,
+    "tokens_input": 1499,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 31,
+    "tokens_input": 1463,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Analogía del anime en la explicación: 'Es como cuando Anya compara si su dibujo es igual al de Becky en el colegio Eden'",
+      "Referencia al lugar prohibido 'Eden' que es del universo de Spy x Family"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta tiene elementos muy positivos: usa correctamente la personalidad de Anya (tercera persona, 'waku waku'), el enfoque socrático está presente, y el código Python es correcto. Sin embargo, comete una violación crítica en la regla 2: usa el colegio Eden (del universo de Spy x Family) como analogía para explicar el operador ==. La frase 'Es como cuando Anya compara si su dibujo es igual al de Becky en el colegio Eden' es una analogía del anime que explica un concepto de Python. Se sugiere reemplazar esta analogía con: 'Imagina que tienes dos cajas con juguetes. El operador == te pregunta si lo que hay dentro es exactamente igual.' Mantén la referencia ambiental (colegio, dibujo) SEPARADA de la explicación técnica, o elimínala completamente de la explicación del concepto. La pregunta final al estudiante es excelente y mantiene el enfoque socrático correcto.",
+    "indice": 32,
+    "tokens_input": 1405,
+    "tokens_output": 452
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 33,
+    "tokens_input": 1378,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 34,
+    "tokens_input": 1404,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 5,
+    "problemas": [
+      "Analogía del anime en explicación de concepto: 'Como si tienes más de 5 estrellas en Eden, puedes ir a jugar' explica el concepto >= usando un elemento del universo de Spy x Family",
+      "Referencia a 'Eden' (escuela del anime) que es prohibida en explicaciones de conceptos",
+      "La analogía de las galletas es cotidiana y correcta, pero la de Eden viola la regla 2"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "Eliminar la frase 'Como si tienes más de 5 estrellas en Eden, puedes ir a jugar'. Reemplazarla con una referencia ambiental separada de la explicación, como: 'Anya tuvo un día largo en la escuela, ¡pero esto es más divertido!' La analogía de las galletas es excelente y debe mantenerse. El resto de la respuesta es correcta: usa la personalidad de Anya adecuadamente, incluye ejercicio final socrático y el código Python es correcto.",
+    "indice": 35,
+    "tokens_input": 1400,
+    "tokens_output": 384
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Usa una analogía del universo de Spy x Family para explicar un concepto de Python (papá y ver la tele)",
+      "La primera analogía de galletas y jugo, aunque cotidiana, se mezcla con la referencia a 'papá' que es del contexto del anime"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta tiene puntos positivos: personalidad de Anya bien caracterizada, enfoque socrático adecuado y ejercicio final correcto. Sin embargo, viola la regla 2. La frase 'Es como cuando papá dice que Anya tiene que estudiar Y limpiar para ver la tele' es una analogía que usa elementos del universo de Spy x Family (papá/Loid) para explicar el concepto de 'and'. Debe eliminarse o reemplazarse. La analogía de galletas y jugo es aceptable porque es completamente cotidiana y neutral. Sugiere mantener solo: '¡Es como cuando quieres galletas Y jugo! Para que estés contenta, ¡necesitas LAS DOS cosas!' sin la referencia a papá. Luego explica el concepto técnico y plantea el ejercicio final.",
+    "indice": 36,
+    "tokens_input": 1428,
+    "tokens_output": 417
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 37,
+    "tokens_input": 1432,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 4,
+    "problemas": [
+      "Usa analogía del anime para explicar un concepto: compara 'not' con la frase de Anya sobre el colegio",
+      "Usa analogía del anime para explicar un concepto: compara 'not' con la situación de Bond y las verduras",
+      "Las explicaciones de conceptos están mezcladas con referencias a personajes y situaciones del universo Spy x Family",
+      "El ejercicio final no es claro ni está bien estructurado"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": false,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "Reescribir eliminando las analogías del anime en la explicación del concepto. Cambiar: \"'Not' es como cuando Anya dice...\" y \"Como cuando papá dice...\" por ejemplos cotidianos neutros como: \"Piensa en una caja que puede estar llena (verdad) o vacía (falso). 'Not' invierte el estado: si la caja está llena, 'not' la muestra como vacía, y viceversa.\" Mantener la personalidad de Anya (waku waku, tercera persona) pero separar las referencias ambientales (que pueden ir al principio) de la explicación técnica. El ejercicio final debe ser más directo: \"¿Podrías escribir una condición con 'not' que verifique si un número NO es igual a 5?\"",
+    "indice": 38,
+    "tokens_input": 1414,
+    "tokens_output": 451
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 39,
+    "tokens_input": 1409,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Usa analogía del universo de Spy x Family para explicar un concepto de Python",
+      "No plantea un ejercicio práctico al final, solo una pregunta reflexiva",
+      "La referencia ambiental está mezclada con la explicación del concepto"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": false
+    },
+    "sugerencia_correccion": "La frase 'Piénsalo como un conjunto preciso de comandos que un agente usaría para dirigir una operación' es una analogía del universo de Spy x Family (agente/operación son términos del contexto de espías). Debería reemplazarse por un ejemplo cotidiano neutral, como 'Piénsalo como un conjunto de instrucciones que darías a un chef para preparar un plato'. Además, falta un ejercicio práctico al final. Sugerencia: tras la pregunta reflexiva, añade un ejercicio como 'Ahora, intenta escribir en pseudocódigo (en palabras, sin código real) los pasos para hacer un sándwich. ¿Ves cómo necesitas ser muy preciso para que alguien (o una máquina) lo entienda?'",
+    "indice": 40,
+    "tokens_input": 1394,
+    "tokens_output": 405
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 41,
+    "tokens_input": 1383,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 42,
+    "tokens_input": 1407,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Usa analogía del universo de Spy x Family para explicar un concepto de Python",
+      "La explicación es demasiado abstracta y teórica, carece de ejemplo cotidiano concreto",
+      "El enfoque socrático es débil: plantea una pregunta final pero no guía pasos intermedios"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": false,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "El mayor problema es la frase 'en el análisis de información clasificada, Python puede procesar y correlacionar datos de diversas fuentes'. Esto es una analogía directa al trabajo de espía de Loid, usada para EXPLICAR cómo Python resuelve problemas. Debe reemplazarse con un ejemplo completamente neutral y cotidiano (ej: 'procesar calificaciones de estudiantes', 'organizar recetas de cocina', 'analizar ventas de una tienda'). Las referencias ambientales (si las hay) deben estar SEPARADAS de la explicación técnica, no integradas en ella. Además, el enfoque socrático necesita ser más gradual: en lugar de una pregunta final directa, podría preguntar primero '¿qué características tiene un proceso que Python podría automatizar?' antes de pasar a 'cómo describirías ese proceso'.",
+    "indice": 43,
+    "tokens_input": 1398,
+    "tokens_output": 432
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 44,
+    "tokens_input": 1378,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 5,
+    "problemas": [
+      "Usa una analogía de espía (rastrear objetivo en ciudad) para explicar un concepto de algoritmo",
+      "La referencia ambiental no está claramente separada de la explicación conceptual",
+      "El ejercicio final es genérico y no está suficientemente conectado a la enseñanza de Python"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta mezcla referencias de su vida como espía (rastrear objetivo, mapas, puntos de control) como parte de la explicación del concepto de algoritmo. Esto viola la regla 2. Debería restructurarse así: (1) Explicar qué es un algoritmo usando ejemplo neutro (como buscar una dirección en una ciudad, sin contexto de espía), (2) Luego, como referencia ambiental separada, mencionar: 'En mis misiones, la precisión de los algoritmos es vital, pero ese es un tema para otra ocasión'. (3) El ejercicio podría ser más específico en Python, como: 'Escribe los pasos (no el código aún) para verificar si un número es par o impar, sin usar operadores matemáticos'.",
+    "indice": 45,
+    "tokens_input": 1361,
+    "tokens_output": 405
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 46,
+    "tokens_input": 1368,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 47,
+    "tokens_input": 1371,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "No proporciona el nombre de la función (print) de forma clara",
+      "La pregunta final pide que muestre un mensaje sobre una misión, lo que podría considerarse una referencia temática que contamina el ejercicio",
+      "Falta un ejercicio de seguimiento neutro y claro después de la respuesta"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": false
+    },
+    "sugerencia_correccion": "La respuesta necesita mejoras: 1) Menciona explícitamente la función 'print' para guiar correctamente al estudiante. Actualmente es demasiado vaga. 2) El ejercicio final ('Misión en curso') mezcla la temática del personaje con el aprendizaje técnico. Mejor: '¿Podrías escribir un comando que muestre tu nombre en la pantalla?' 3) Añade un segundo ejercicio de seguimiento para asegurar que el estudiante domine el concepto: 'Después, intenta mostrar dos mensajes diferentes en dos líneas distintas'.",
+    "indice": 48,
+    "tokens_input": 1314,
+    "tokens_output": 363
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Analogía del anime en la explicación del concepto (expediente con nombre clave como analogía de variable)",
+      "La explicación usa la identidad de 'Twilight' que es parte del universo de Spy x Family"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta es fuerte en estructura y enfoque socrático, pero viola la regla 2. El párrafo 'Imagina que tienes un expediente con un nombre clave; no lo citarías entre comillas si ya sabes su identidad' usa directamente una analogía del contexto de espía para explicar cómo funcionan las variables. Aunque temáticamente coherente con Loid, esto es exactamente lo prohibido. Sugiero reescribir: 'Imagina que tienes una caja etiquetada con \"nombre_agente\" que dentro contiene el texto \"Twilight\". Para acceder a lo que hay dentro, usas la etiqueta sin comillas. ¿Cómo crees que lo escribirías con print()?'. Esto mantiene la personalidad metódica de Loid sin usar la analogía prohibida del universo del anime.",
+    "indice": 49,
+    "tokens_input": 1345,
+    "tokens_output": 403
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 50,
+    "tokens_input": 1326,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 4,
+    "problemas": [
+      "Usa analogía del universo de Spy x Family para explicar un concepto de Python",
+      "La analogía del 'mensaje cifrado' y 'archivo para análisis' mezcla la explicación técnica con una referencia de espionaje",
+      "No proporciona código de ejemplo concreto",
+      "El ejercicio final es muy genérico y no guía claramente al estudiante"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La frase 'Es como recibir un mensaje cifrado, transcribirlo a un archivo para su posterior análisis, y luego presentarlo' es una ANALOGÍA PROHIBIDA que explica el concepto usando elementos de espionaje. Debe reemplazarse con un ejemplo cotidiano neutro como: 'Es como cuando recibes una nota en un buzón: la guardas en una carpeta para leerla después, y luego puedes compartir su contenido con alguien más.' El ejercicio debe ser más específico: 'Intenta escribir 3 líneas: una que pida el nombre del usuario, otra que lo almacene en una variable, y otra que lo muestre en pantalla. ¿Qué funciones necesitarías?'",
+    "indice": 51,
+    "tokens_input": 1372,
+    "tokens_output": 414
+  },
+  {
+    "indice": 52,
+    "aprobado": null,
+    "error": "JSON inválido: Extra data: line 15 column 1 (char 331)",
+    "respuesta_cruda": "{\n  \"aprobado\": true,\n  \"puntuacion\": 9,\n  \"problemas\": [],\n  \"detalle\": {\n    \"personalidad_correcta\": true,\n    \"analogia_anime_en_explicacion\": false,\n    \"referencia_ambiental_correcta\": true,\n    \"enfoque_socratico\": true,\n    \"python_correcto\": true,\n    \"tiene_ejercicio_final\": true\n  },\n  \"s"
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Usa la analogía prohibida 'Operación Strix' en el ejemplo de código",
+      "La pregunta final no es suficientemente socrática - casi revela la respuesta"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": false,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "El ejemplo tiene buenas cualidades (explicación clara, uso correcto de `type()`, personalidad de Loid bien caracterizada), pero comete un error crítico: usa 'Operación Strix' como ejemplo de dato string. Aunque no lo usa como analogía para explicar el concepto de `type()`, sigue siendo un nombre prohibido del universo de Spy x Family en el contexto de código. Cambiar a un ejemplo neutro como '\"Hola\"' o '\"Python\"'. Además, la pregunta final \"¿qué resultado esperas si usas type()...\" prácticamente guía al estudiante a usar la función, cuando debería ser más abierta: '¿Cómo podrías verificar cuál es el tipo del número 7? ¿Y del texto \"Hola\"?' para que el estudiante descubra por sí mismo la necesidad de `type()`.",
+    "indice": 53,
+    "tokens_input": 1355,
+    "tokens_output": 400
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 54,
+    "tokens_input": 1354,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Analogía del anime en la explicación del concepto",
+      "El ejercicio final usa nombres prohibidos del universo Spy x Family"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "El ejemplo tiene dos problemas principales: 1) La frase inicial 'El formato de los datos es vital para su correcta interpretación y transmisión' suena a referencia de misión espía pero está mezclada con la explicación del concepto, lo que crea una analogía implícita entre los tipos de datos y información clasificada. 2) El ejemplo usa 'Agente crepusculo' (que corresponde al alias de Loid) y luego propone variables con nombres como 'edad_agente', 'altura_objetivo' y 'estado_mision' que hacen referencias al universo de Spy x Family en lugar de usar ejemplos cotidianos neutros. Sugerencia: Cambiar la introducción a una simple explicación metódica sin connotaciones de espionaje, y reemplazar los nombres de variables por ejemplos neutros como 'edad_persona', 'altura_puerta' y 'estado_tarea'.",
+    "indice": 55,
+    "tokens_input": 1370,
+    "tokens_output": 386
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 56,
+    "tokens_input": 1422,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 57,
+    "tokens_input": 1422,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 58,
+    "tokens_input": 1428,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "No cumple completamente el enfoque socrático: da la solución directa en lugar de guiar al estudiante a descubrirla",
+      "El ejercicio final es muy directo y no invita a descubrimiento: debería ser una pregunta que guíe, no una instrucción de qué hacer",
+      "La explicación de str() es correcta pero le falta una pregunta de seguimiento que invite al estudiante a experimentar"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": false,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "El contenido de Python es correcto y la personalidad de Loid está bien ejecutada. Sin embargo, la respuesta viola el enfoque socrático. En lugar de decir directamente 'la función str() cumple esta misión', debería preguntar: '¿Qué crees que sucedería si intentaras concatenar un número directamente con un texto? ¿Qué función crees que podría convertir un número en texto?' Asimismo, el ejercicio final debería ser: 'Intenta crear un programa que pida un número al usuario y lo sume con 10. ¿Cómo podrías mostrar el resultado junto con un mensaje explicativo?' en lugar de dar instrucciones directas. Mantén la personalidad de espía pero haz preguntas que guíen el descubrimiento.",
+    "indice": 59,
+    "tokens_input": 1461,
+    "tokens_output": 442
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 60,
+    "tokens_input": 1390,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 61,
+    "tokens_input": 1436,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 62,
+    "tokens_input": 1425,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 4,
+    "problemas": [
+      "Usa analogía del universo de Spy x Family para explicar concepto de Python (dispositivo detonador)",
+      "La comparación con 'un informe sin clasificar' también es una analogía contextual de espía",
+      "El código de ejemplo no tiene error de indentación - no hay espacios faltantes que el estudiante deba corregir",
+      "Falta referencia ambiental que separe la vida como espía del concepto técnico"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": false,
+      "python_correcto": true,
+      "tiene_ejercicio_final": false
+    },
+    "sugerencia_correccion": "Reescribe eliminando las analogías con dispositivos detonadores e informes clasificados. Usa ejemplos cotidianos neutros como 'cajas anidadas' o 'márgenes en un documento'. El código debe tener error de indentación para que el estudiante lo corrija. Ejemplo correcto: mostrar código CON indentación incorrecta y preguntar '¿Cuántos espacios necesita cada línea dentro del bloque if?' para mantener el enfoque socrático. Puedes agregar una referencia ambiental separada como: 'Esta precisión requiere la concentración de una misión de alto nivel' ANTES de explicar el concepto técnico.",
+    "indice": 63,
+    "tokens_input": 1442,
+    "tokens_output": 411
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Usa analogía del universo de Spy x Family para explicar un concepto de Python: la comparación con 'tarjeta de identificación válida y huella dactilar' es una analogía de espionaje que explica cómo funciona 'and'",
+      "La referencia a 'misión' y 'intel' está mezclada con la explicación del concepto, no separada como referencia ambiental"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta comienza bien con la personalidad de Loid, pero viola la regla 2. La analogía de 'tarjeta de identificación + huella dactilar' es una comparación directa del universo de espionaje para explicar 'and', aunque no use nombres prohibidos. Reformula usando ejemplos cotidianos: 'Para entrar a una película, necesitas tener dinero Y un ticket válido. Si falta uno de estos, no entras.' Luego, SEPARA la referencia ambiental: 'En una misión, como necesitaría información precisa Y acceso oportuno, los operadores and son fundamentales.' Así mantienes la inmersión sin usar analogías del anime para la explicación técnica.",
+    "indice": 64,
+    "tokens_input": 1433,
+    "tokens_output": 418
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 65,
+    "tokens_input": 1417,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 66,
+    "tokens_input": 1427,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Usa analogía de misión de espía para explicar un concepto de Python",
+      "La explicación del escenario final mezcla el contexto de misión con la enseñanza del concepto"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "El problema principal es el último párrafo. La frase 'Considere este escenario: Una misión se activa si...' mezcla conceptos de espionaje con la explicación del operador lógico. Aunque plantea una buena pregunta socrática, el escenario debería ser completamente neutral y cotidiano. Sugerencia de corrección: Cambiar a algo como: 'Considere este escenario: Un acceso a la biblioteca se permite si el usuario tiene identificación *y* tiene los documentos requeridos, *o* si no tiene identificación pero presenta una autorización especial. ¿Cómo expresaría esta condición combinada en una declaración if?' Así mantienes el enfoque socrático sin contaminar la explicación del concepto con contexto de misión.",
+    "indice": 67,
+    "tokens_input": 1452,
+    "tokens_output": 382
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 68,
+    "tokens_input": 1482,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 69,
+    "tokens_input": 1416,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 70,
+    "tokens_input": 1427,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 71,
+    "tokens_input": 1419,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 72,
+    "tokens_input": 1384,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 73,
+    "tokens_input": 1383,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 74,
+    "tokens_input": 1394,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 75,
+    "tokens_input": 1419,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 76,
+    "tokens_input": 1467,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 77,
+    "tokens_input": 1415,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 78,
+    "tokens_input": 1431,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 79,
+    "tokens_input": 1477,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 80,
+    "tokens_input": 1350,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 81,
+    "tokens_input": 1335,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 82,
+    "tokens_input": 1392,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 83,
+    "tokens_input": 1361,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 84,
+    "tokens_input": 1387,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 85,
+    "tokens_input": 1392,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 86,
+    "tokens_input": 1407,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 87,
+    "tokens_input": 1403,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 88,
+    "tokens_input": 1416,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 89,
+    "tokens_input": 1407,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "No proporciona la solución técnica ni orientación clara sobre funciones como str() o f-strings",
+      "La pregunta socrática es demasiado vaga y no guía efectivamente hacia la solución",
+      "Falta un ejercicio de práctica concreto al final",
+      "La explicación de 'convertir a palabra' es confusa y poco precisa técnicamente"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": false,
+      "python_correcto": false,
+      "tiene_ejercicio_final": false
+    },
+    "sugerencia_correccion": "La respuesta necesita mejorar en tres aspectos: 1) Proporciona pistas más concretas sobre str() o f-strings (ej: '¿Conoces alguna función que convierta números a texto?'), 2) Incluye un ejercicio práctico al final (ej: 'Intenta crear una frase que combine: edad=25 y la palabra \"años\"'), 3) Sé más directa sobre el problema técnico mientras mantienes el método socrático. La referencia ambiental es buena, pero la explicación técnica sobre 'mismo idioma' es demasiado metafórica sin aclarar la solución real.",
+    "indice": 90,
+    "tokens_input": 1399,
+    "tokens_output": 394
+  },
+  {
+    "indice": 91,
+    "aprobado": null,
+    "error": "JSON inválido: Extra data: line 15 column 1 (char 331)",
+    "respuesta_cruda": "{\n  \"aprobado\": true,\n  \"puntuacion\": 9,\n  \"problemas\": [],\n  \"detalle\": {\n    \"personalidad_correcta\": true,\n    \"analogia_anime_en_explicacion\": false,\n    \"referencia_ambiental_correcta\": true,\n    \"enfoque_socratico\": true,\n    \"python_correcto\": true,\n    \"tiene_ejercicio_final\": true\n  },\n  \"s"
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 92,
+    "tokens_input": 1370,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 93,
+    "tokens_input": 1366,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 94,
+    "tokens_input": 1375,
+    "tokens_output": 137
+  },
+  {
+    "indice": 95,
+    "aprobado": null,
+    "error": "JSON inválido: Extra data: line 15 column 1 (char 331)",
+    "respuesta_cruda": "{\n  \"aprobado\": true,\n  \"puntuacion\": 9,\n  \"problemas\": [],\n  \"detalle\": {\n    \"personalidad_correcta\": true,\n    \"analogia_anime_en_explicacion\": false,\n    \"referencia_ambiental_correcta\": true,\n    \"enfoque_socratico\": true,\n    \"python_correcto\": true,\n    \"tiene_ejercicio_final\": true\n  },\n  \"s"
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 96,
+    "tokens_input": 1406,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 97,
+    "tokens_input": 1419,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 98,
+    "tokens_input": 1453,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 99,
+    "tokens_input": 1467,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 100,
+    "tokens_input": 1463,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 101,
+    "tokens_input": 1444,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 102,
+    "tokens_input": 1458,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 103,
+    "tokens_input": 1455,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 104,
+    "tokens_input": 1396,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 4,
+    "problemas": [
+      "Usa analogía del universo de Spy x Family para explicar un concepto de Python (Loid y Anya como ejemplo de 'or')",
+      "La analogía está mezclada con la explicación técnica, no está separada como referencia ambiental"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta viola la regla #2. Aunque el ejemplo de 'Loid o Anya' parece casual, está siendo usado PARA EXPLICAR cómo funciona 'or' en Python, convirtiéndose en una analogía del universo de Spy x Family. Corrección sugerida: Usar un ejemplo cotidiano neutro como 'Para salir al parque, necesito que HAGA BUEN TIEMPO O que sea fin de semana - con que uno sea verdadero, puedo salir'. Luego, se puede mencionar casualmente 'A veces Anya insiste en salir sin importar el clima, así que entiendo la importancia del or en la vida real', pero SEPARADO de la explicación técnica del concepto.",
+    "indice": 105,
+    "tokens_input": 1390,
+    "tokens_output": 386
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 106,
+    "tokens_input": 1395,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Usa una analogía del universo de Spy x Family para explicar un concepto de Python",
+      "El ejemplo final contiene una referencia a 'misión' que mezcla contexto ambiental con la explicación técnica",
+      "No hay un ejercicio final claro separado de la pregunta orientadora"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": false
+    },
+    "sugerencia_correccion": "La respuesta tiene buenos elementos pero necesita correcciones:\n\n1. PROBLEMA PRINCIPAL: El ejemplo 'Es como cuando organizo los documentos en el ayuntamiento' es una referencia ambiental correcta, PERO el ejemplo final '¡Es un día perfecto para la misión!' es problemático. Aunque 'misión' no es un nombre prohibido del anime, está usando contexto de Spy x Family para el ejemplo técnico, lo que viola la regla 2.\n\n2. SOLUCIÓN: Cambiar el ejemplo a algo completamente neutral. Por ejemplo:\n'¿Cómo organizarías esto en un if con paréntesis? Imagina que quieres verificar si es de noche Y además si hay al menos una de estas dos cosas: está nublado O hace viento.'\n\n3. AGREGAR EJERCICIO FINAL: Después de la pregunta orientadora, añadir un ejercicio específico separado:\n'Intenta escribir esa condición con paréntesis y luego pruébala con diferentes valores de verdad. ¿Qué casos hacen que toda la condición sea verdadera?'",
+    "indice": 107,
+    "tokens_input": 1428,
+    "tokens_output": 491
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 108,
+    "tokens_input": 1435,
+    "tokens_output": 137
+  },
+  {
+    "indice": 109,
+    "aprobado": null,
+    "error": "JSON inválido: Extra data: line 15 column 1 (char 331)",
+    "respuesta_cruda": "{\n  \"aprobado\": true,\n  \"puntuacion\": 9,\n  \"problemas\": [],\n  \"detalle\": {\n    \"personalidad_correcta\": true,\n    \"analogia_anime_en_explicacion\": false,\n    \"referencia_ambiental_correcta\": true,\n    \"enfoque_socratico\": true,\n    \"python_correcto\": true,\n    \"tiene_ejercicio_final\": true\n  },\n  \"s"
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 110,
+    "tokens_input": 1406,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Contiene una analogía del universo de Spy x Family para explicar un concepto (gadget, robot, Yor rompiendo inventos)",
+      "La explicación técnica se mezcla con referencias personales que actúan como analogía",
+      "El ejercicio final es relevante pero la explicación anterior debilita el cumplimiento"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta tiene una buena estructura socrática y personalidad de Franky correcta, pero viola la regla principal: usa la analogía del 'gadget', 'robot' e 'idioma binario' para EXPLICAR cómo funciona Python. La referencia a Yor rompiendo inventos está mezclada con la explicación técnica, haciéndola funcionar como analogía implícita. Debe separarse claramente: primero dar la explicación técnica con ejemplos cotidianos (traductor, intermediario, cajas con etiquetas), y LUEGO hacer un comentario ambiental separado (ej: 'Aunque a veces desearía que fuera magia para terminar antes', sin conectarlo a la explicación). Sugerencia de reformulación: Mantener la personalidad de queja, pero explicar con analogías neutras (traductor humano, recetas de cocina, instrucciones en papel) y luego añadir el comentario sobre Yor como observación de vida separada, no como parte de la explicación.",
+    "indice": 111,
+    "tokens_input": 1471,
+    "tokens_output": 473
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 112,
+    "tokens_input": 1332,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 113,
+    "tokens_input": 1338,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 114,
+    "tokens_input": 1333,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 115,
+    "tokens_input": 1357,
+    "tokens_output": 137
+  },
+  {
+    "indice": 116,
+    "aprobado": null,
+    "error": "JSON inválido: Extra data: line 15 column 1 (char 331)",
+    "respuesta_cruda": "{\n  \"aprobado\": true,\n  \"puntuacion\": 9,\n  \"problemas\": [],\n  \"detalle\": {\n    \"personalidad_correcta\": true,\n    \"analogia_anime_en_explicacion\": false,\n    \"referencia_ambiental_correcta\": true,\n    \"enfoque_socratico\": true,\n    \"python_correcto\": true,\n    \"tiene_ejercicio_final\": true\n  },\n  \"s"
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 117,
+    "tokens_input": 1500,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 118,
+    "tokens_input": 1488,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 119,
+    "tokens_input": 1457,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 120,
+    "tokens_input": 1347,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 121,
+    "tokens_input": 1324,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A - Ejemplo aprobado. La respuesta mantiene la personalidad de Franky (informal, quejumbroso pero solidario: 'Bien, bien, ya estás guardando cosas, eso es progreso'), evita completamente analogías del anime en la explicación del concepto (usa la metáfora neutral de 'pegando etiquetas en un paquete' y 'cajas'), aplica el enfoque socrático mediante preguntas guiadoras ('¿Recuerdas cómo se llamaba...?', '¿Qué crees que podría usarse...?'), el código implícito es correcto, y termina con un ejercicio práctico para que el estudiante descubra la respuesta.",
+    "indice": 122,
+    "tokens_input": 1364,
+    "tokens_output": 310
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 123,
+    "tokens_input": 1386,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 124,
+    "tokens_input": 1395,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 125,
+    "tokens_input": 1410,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 126,
+    "tokens_input": 1361,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 127,
+    "tokens_input": 1405,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 128,
+    "tokens_input": 1407,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 129,
+    "tokens_input": 1396,
+    "tokens_output": 137
+  },
+  {
+    "indice": 130,
+    "aprobado": null,
+    "error": "JSON inválido: Extra data: line 15 column 1 (char 331)",
+    "respuesta_cruda": "{\n  \"aprobado\": true,\n  \"puntuacion\": 9,\n  \"problemas\": [],\n  \"detalle\": {\n    \"personalidad_correcta\": true,\n    \"analogia_anime_en_explicacion\": false,\n    \"referencia_ambiental_correcta\": true,\n    \"enfoque_socratico\": true,\n    \"python_correcto\": true,\n    \"tiene_ejercicio_final\": true\n  },\n  \"s"
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 131,
+    "tokens_input": 1398,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "La pregunta final contiene una analogía del universo de Spy x Family ('le doy 7 a un espía')",
+      "El ejercicio debería usar un ejemplo completamente neutral, no referencias a espías o actividades de WISE"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "El ejemplo está muy bien estructurado y Franky mantiene su personalidad de forma perfecta. Las explicaciones de conceptos (suma, resta, multiplicación, división) usan ejemplos neutros como 'cajas'. Sin embargo, el ejercicio de práctica final viola la regla 2: 'le doy 7 a un espía' es una analogía del universo Spy x Family. Cambia por: '¿cuántas tengo al final?' pero con un contexto completamente neutral como 'si tengo 15 caramelos y le doy 7 a un amigo, y luego compro el doble de los que me quedan' o simplemente mantén los números sin contexto temático.",
+    "indice": 132,
+    "tokens_input": 1408,
+    "tokens_output": 364
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 133,
+    "tokens_input": 1440,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 134,
+    "tokens_input": 1417,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Analogía del universo de Spy x Family en explicación de concepto: 'Es como planificar una misión: no puedes abrir la caja fuerte si antes no has desactivado la alarma'",
+      "La analogía usa elementos conceptuales de espionaje que no son cotidianos ni neutros"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta es muy buena en estructura y tono, pero viola la regla 2 con la analogía 'Es como planificar una misión: no puedes abrir la caja fuerte si antes no has desactivado la alarma'. Aunque es amigable, esta analogía introduce conceptos del universo de espionaje (misiones, cajas fuertes, alarmas) para explicar el orden de operaciones. Sugerencia de corrección: reemplazar con un ejemplo cotidiano neutro como 'Es como seguir una receta: no puedes mezclar los ingredientes si antes no has preparado los secos' o simplemente eliminar la analogía y mantener la explicación técnica directa. La referencia a 'mi taller después de un experimento fallido' SÍ es correcta porque es ambiental, no está explicando el concepto.",
+    "indice": 135,
+    "tokens_input": 1408,
+    "tokens_output": 420
+  },
+  {
+    "indice": 136,
+    "aprobado": null,
+    "error": "JSON inválido: Extra data: line 15 column 1 (char 331)",
+    "respuesta_cruda": "{\n  \"aprobado\": true,\n  \"puntuacion\": 9,\n  \"problemas\": [],\n  \"detalle\": {\n    \"personalidad_correcta\": true,\n    \"analogia_anime_en_explicacion\": false,\n    \"referencia_ambiental_correcta\": true,\n    \"enfoque_socratico\": true,\n    \"python_correcto\": true,\n    \"tiene_ejercicio_final\": true\n  },\n  \"s"
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 137,
+    "tokens_input": 1409,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 138,
+    "tokens_input": 1421,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "analogía_anime_en_explicacion_detectada",
+      "referencia_ambiental_entrelazada_con_concepto"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta tiene un problema fundamental: la analogía de la habitación y la puerta ('Es como si el `if` fuera la puerta de una habitación: todo lo que hay dentro de esa habitación tiene que estar un poquito más adentro') es una analogía de Spy x Family disfrazada. Aunque no usa nombres específicos del anime, la metáfora de 'estar dentro/fuera' está conectada a la vida de espía de Franky (operaciones encubiertas, espacios seguros). Además, la referencia ambiental 'como en mis inventos a oscuras' está entrelazada con la explicación del concepto, no separada. Solución: Cambiar la analogía por un ejemplo cotidiano COMPLETAMENTE neutro (como una caja dentro de otra caja, o capas de ropa) y colocar la referencia a los inventos de forma claramente separada antes o después de la explicación técnica: 'Mira, aunque yo hago mis inventos en la oscuridad y sin pensar en esto, Python necesita que seas ordenado. Aquí va: [explicación técnica]. ¿Ves la diferencia?'",
+    "indice": 139,
+    "tokens_input": 1390,
+    "tokens_output": 445
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 140,
+    "tokens_input": 1435,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 141,
+    "tokens_input": 1431,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 142,
+    "tokens_input": 1450,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 143,
+    "tokens_input": 1422,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 144,
+    "tokens_input": 1394,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 145,
+    "tokens_input": 1396,
+    "tokens_output": 137
+  },
+  {
+    "indice": 146,
+    "aprobado": null,
+    "error": "JSON inválido: Extra data: line 15 column 1 (char 331)",
+    "respuesta_cruda": "{\n  \"aprobado\": true,\n  \"puntuacion\": 9,\n  \"problemas\": [],\n  \"detalle\": {\n    \"personalidad_correcta\": true,\n    \"analogia_anime_en_explicacion\": false,\n    \"referencia_ambiental_correcta\": true,\n    \"enfoque_socratico\": true,\n    \"python_correcto\": true,\n    \"tiene_ejercicio_final\": true\n  },\n  \"s"
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 147,
+    "tokens_input": 1398,
+    "tokens_output": 137
+  },
+  {
+    "indice": 148,
+    "aprobado": null,
+    "error": "JSON inválido: Extra data: line 15 column 1 (char 331)",
+    "respuesta_cruda": "{\n  \"aprobado\": true,\n  \"puntuacion\": 9,\n  \"problemas\": [],\n  \"detalle\": {\n    \"personalidad_correcta\": true,\n    \"analogia_anime_en_explicacion\": false,\n    \"referencia_ambiental_correcta\": true,\n    \"enfoque_socratico\": true,\n    \"python_correcto\": true,\n    \"tiene_ejercicio_final\": true\n  },\n  \"s"
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 149,
+    "tokens_input": 1367,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 150,
+    "tokens_input": 1372,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Analogía del anime detectada: 'como si fueran informes de Eden' - Eden es un lugar específico del universo de Spy x Family",
+      "La referencia ambiental no está completamente separada de la explicación del concepto"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta captura bien la personalidad competitiva de Damian y termina con una pregunta socrática efectiva. Sin embargo, la frase 'analizar grandes cantidades de datos como si fueran informes de Eden' viola la regla de prohibición de analogías del anime. 'Eden' es un lugar específico del universo de Spy x Family (la Academia Eden). Sugiero cambiar a: 'analizar grandes cantidades de datos como si fueran archivos o registros de un negocio'. La comparación con la 'navaja suiza' es un buen ejemplo cotidiano y es aceptable. El resto de la respuesta es sólido: mantiene la personalidad retadora, ofrece una pregunta final que guía sin dar respuesta directa, y el código es correcto (aunque no hay código en este ejemplo).",
+    "indice": 151,
+    "tokens_input": 1354,
+    "tokens_output": 397
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Referencia a Eden (nombre prohibido de Spy x Family) mezclada con la explicación del concepto",
+      "La referencia ambiental a 'Eden' y la rutina de examen se usa para ilustrar el concepto de algoritmo, violando la separación requerida"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta está bien estructurada y mantiene la personalidad arrogante y retadora de Damian correctamente. El ejemplo de la tarta es cotidiano y neutral, excelente. Sin embargo, la frase 'Como cuando me preparo para un examen en Eden; sigo una rutina estricta para asegurar el éxito' viola la regla 3: mezcula la referencia ambiental (Eden Academy es un nombre prohibido del universo de Spy x Family) con la explicación del concepto, haciéndola parecer como analogía para ilustrar qué es un algoritmo. Debería separarse completamente: primero explicar el concepto, y luego hacer un comentario casual sobre su vida que NO justifique la explicación. Ejemplo corregido: 'Un algoritmo es una secuencia de pasos... (explicación con ejemplo de tarta). Este rigor es lo que requiere mi preparación en el colegio, ¿sabes?' De esta forma, la referencia es contextual pero no instructiva del concepto.",
+    "indice": 152,
+    "tokens_input": 1372,
+    "tokens_output": 454
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Violación de regla 2: Referencia a 'Eden' en contexto de explicación de concepto",
+      "La referencia a Eden no está separada de la explicación del algoritmo",
+      "Falta ejercicio final claro (la pregunta al final es demasiado abierta, no es un ejercicio estructurado)"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": false
+    },
+    "sugerencia_correccion": "El ejemplo tiene una buena personalidad de Damian y usa el enfoque socrático correctamente. Sin embargo, la mención de 'la biblioteca de Eden' está integrada en la explicación del concepto de algoritmo, violando la regla 2. Eden es un lugar del universo de Spy x Family y no debe usarse así. Debería reescribirse separando completamente la referencia ambiental: primero explicar el algoritmo del diccionario de forma neutral, LUEGO hacer un comentario separado como 'Como cuando busco mis libros en la biblioteca, tengo que ser metódico'. Además, el ejercicio final necesita ser más estructurado y específico: en lugar de 'si tuvieras que dar instrucciones...', debería ser algo como '¿Podrías listar en orden los pasos exactos para preparar un sándwich?' o similar.",
+    "indice": 153,
+    "tokens_input": 1353,
+    "tokens_output": 429
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Contiene analogía del anime para explicar concepto: 'Es como cuando mi padre me da instrucciones' (referencia a Loid Desmond)",
+      "La explicación de algoritmo se entrelaza con la referencia ambiental de forma inapropiada"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta es muy cercana a estar aprobada. El problema principal es la frase 'Es como cuando mi padre me da instrucciones'. Aunque pueda parecer una referencia ambiental, se está utilizando para EXPLICAR el concepto de algoritmo, lo que viola la regla 2. Debe separarse claramente: primero explicar que un algoritmo es una receta de pasos (ejemplo neutro y cotidiano), LUEGO hacer un comentario ambiental separado si lo desea ('Mi padre siempre insiste en la precisión, como debo hacerlo yo aquí'). La pregunta final del robot limpiando es excelente y socrática. Reorganiza para que la analogía con el padre NO sea parte de la explicación técnica del concepto.",
+    "indice": 154,
+    "tokens_input": 1356,
+    "tokens_output": 387
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Analogía del anime en explicación de concepto: menciona 'como un examen fallido en Eden'",
+      "Referencia ambiental débilmente separada de la explicación del concepto",
+      "La analogía de 'estrategia para ganar en los deportes' es aceptable pero está mezclada con contexto del personaje"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "El mayor problema es la mención explícita de 'Eden' (la Academia Cecile) en la explicación del concepto: 'como un examen fallido en Eden'. Esta es una referencia directa del universo de Spy x Family usada como analogía para explicar por qué los algoritmos son importantes, lo cual viola la regla 2. Sugerencia: Reemplaza esa frase por un ejemplo cotidiano neutro, como 'como un examen fallido en cualquier materia importante'. El resto de la respuesta mantiene bien la personalidad de Damian (orgullosa, competitiva, retadora) y termina con un buen enfoque socrático. Mantén la separación clara entre referencias ambientales a su vida (como mencionar competencia/deportes como su contexto) y las explicaciones de conceptos.",
+    "indice": 155,
+    "tokens_input": 1366,
+    "tokens_output": 421
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 156,
+    "tokens_input": 1406,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Uso de referencia prohibida 'Eden' en la explicación de un concepto",
+      "La analogía con 'notas en apuntes de Eden' viola la regla de no usar elementos del universo de Spy x Family para explicar conceptos"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta es fuerte en personalidad y enfoque socrático, pero comete un error crítico al usar 'Eden' como analogía para explicar qué son los comentarios. Debe reemplazarse: cambiar 'como las notas que hago en mis apuntes de Eden para entender mejor un tema difícil' por un ejemplo cotidiano neutral como 'como las notas que haces en un cuaderno para recordar por qué hiciste algo importante' o 'como las etiquetas en una caja para saber qué contiene'. La frase debe mantener el tono competitivo de Damian pero sin referencias al universo de Spy x Family en la explicación técnica.",
+    "indice": 157,
+    "tokens_input": 1403,
+    "tokens_output": 364
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 4,
+    "problemas": [
+      "Usa una analogía del anime (Damian vs alumno de segundo año) para explicar un concepto de Python",
+      "La comparación 'tan diferentes como un alumno de segundo año y yo, Damian Desmond' vincula directamente la explicación técnica con elementos del universo Spy x Family",
+      "Aunque luego usa un ejemplo neutral (etiqueta/contenedor), la explicación ya fue contaminada por la analogía previa"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "Elimina la frase 'tan diferentes como un alumno de segundo año y yo, Damian Desmond'. Reemplázala directamente con: 'Para el intérprete, \"miVariable\" y \"mivariable\" son completamente diferentes.' Puedes mantener el tono orgulloso de Damian comentando después algo como 'Esto es lo que separa a los programadores precisos de los descuidados', pero sin usar comparaciones con elementos del universo Spy x Family. El resto del ejemplo (etiqueta/contenedor y el ejercicio final) está bien estructurado.",
+    "indice": 158,
+    "tokens_input": 1412,
+    "tokens_output": 386
+  },
+  {
+    "indice": 159,
+    "aprobado": null,
+    "error": "JSON inválido: Unterminated string starting at: line 18 column 28 (char 850)",
+    "respuesta_cruda": "{\n  \"aprobado\": false,\n  \"puntuacion\": 4,\n  \"problemas\": [\n    \"Usa analogía del anime para explicar concepto: 'confundieras el horario de clases en Eden' (Eden es ubicación de Spy x Family)\",\n    \"La analogía 'Es como la gramática' es débil pero aceptable, sin embargo la explicación principal está "
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 160,
+    "tokens_input": 1355,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 161,
+    "tokens_input": 1337,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 162,
+    "tokens_input": 1375,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 163,
+    "tokens_input": 1401,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 164,
+    "tokens_input": 1325,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 165,
+    "tokens_input": 1370,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 5,
+    "problemas": [
+      "Usa analogía del anime (escuela Eden) para explicar un concepto de Python",
+      "La analogía de la escuela Eden no es una referencia ambiental casual, sino que se usa para explicar las reglas de nomenclatura de variables",
+      "El enfoque socrático está presente pero debilitado por la explicación directa que precede a la pregunta"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "Eliminar completamente la frase 'Es como las reglas de la etiqueta en la escuela Eden; si no las sigues, todo se vuelve un desastre.' Esta es una analogía explícita del universo de Spy x Family que viola la regla 2. Reemplazarla con una comparación cotidiana neutra como: 'Es como etiquetar cajas: no puedes empezar con un número, ni poner espacios en el nombre de la caja. Tienes que ser ordenado con tus etiquetas.' La pregunta final es excelente y mantiene el enfoque socrático, pero la analogía prohibida debe removerse completamente.",
+    "indice": 166,
+    "tokens_input": 1384,
+    "tokens_output": 387
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 167,
+    "tokens_input": 1373,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 168,
+    "tokens_input": 1364,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Uso de referencia al universo de Spy x Family ('examen de historia de Eden') en el contexto de explicación de conceptos",
+      "No proporciona ejercicio práctico final concreto para que el estudiante practique",
+      "La pregunta socrática es ambigua y no guía claramente hacia la solución"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": false
+    },
+    "sugerencia_correccion": "La respuesta tiene buena personalidad de Damian, pero contiene una violación crítica: 'examen de historia de Eden' es una referencia al universo de Spy x Family usada dentro de la explicación del concepto de conversión de tipos. Aunque no es una analogía directa, rompe la inmersión al traer el universo del anime al contexto educativo. Reemplazar con: '¡Patético! ¿No puedes ni siquiera transformar algo tan simple? Necesitas herramientas especiales que quitan la etiqueta 'texto' y ponen la etiqueta 'número' según corresponda. Piensa en ellos como convertidores de etiquetas en cajas.' Además, debe terminar con un ejercicio práctico explícito, como: 'Ahora bien, rival: intenta convertir el texto \"42\" a un número entero y luego multiplícalo por 2. Cuéntame qué sucede si intentas lo mismo con \"abc\". ¿Qué crees que debería pasar?'",
+    "indice": 169,
+    "tokens_input": 1373,
+    "tokens_output": 476
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 170,
+    "tokens_input": 1383,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 171,
+    "tokens_input": 1384,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 172,
+    "tokens_input": 1379,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 173,
+    "tokens_input": 1391,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Analogía del anime detectada: 'resolver uno de los acertijos del Director' utiliza elemento del universo de Spy x Family para explicar un concepto",
+      "La referencia ambiental no está completamente separada de la explicación técnica"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta es mayormente buena, pero contiene una analogía del anime prohibida. La frase 'Elevar un número a una potencia no es tan complicado como resolver uno de los acertijos del Director' intenta usar el contexto del anime para explicar la dificultad del concepto. Sugerencia de corrección: Reemplazar por 'Elevar un número a una potencia es más simple de lo que parece' o mantener el comentario sobre el Director DESPUÉS de la explicación técnica completa, como simple broma ambiental desconectada de la enseñanza. La explicación con ejemplos cotidianos (2 * 2 * 2) es correcta, y el ejercicio final ('¿cómo calcularías cuatro elevado a la segunda potencia?') es apropiado socraticamente.",
+    "indice": 174,
+    "tokens_input": 1355,
+    "tokens_output": 398
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 4,
+    "problemas": [
+      "Usa referencia a 'Eden' que es un nombre prohibido del universo de Spy x Family",
+      "La analogía 'Es como en un examen importante; tienes que abordar las preguntas más complejas primero' es débil pero tiende hacia la analogía anime",
+      "Aunque técnicamente no es una analogía de concepto puro, mencionar Eden interrumpe la inmersión neutral"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "Reemplaza 'Incluso en Eden, esto se enseña temprano' por algo como 'Incluso los principiantes deben aprender esto'. La frase 'Es como en un examen importante' es aceptable como referencia ambiental (mencionar exámenes de su escuela), pero debe estar claramente separada de la explicación técnica, no usada para explicar el concepto. La explicación del orden de operaciones es correcta y usa ejemplos neutros adecuadamente. El ejercicio final es excelente. Asegúrate de no mencionar nombres del universo de Spy x Family en ningún contexto, incluso como referencias casuales.",
+    "indice": 175,
+    "tokens_input": 1376,
+    "tokens_output": 397
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 176,
+    "tokens_input": 1401,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 177,
+    "tokens_input": 1422,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 4,
+    "problemas": [
+      "Uso de analogía del anime (biblioteca de Eden) para explicar un concepto de Python",
+      "La explicación de if-elif es correcta pero está contaminada por la referencia a Eden",
+      "No proporciona un ejercicio práctico claro al final, solo una pregunta abierta"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": false
+    },
+    "sugerencia_correccion": "Reemplaza la frase 'como intentar ordenar la biblioteca de Eden con criterios al azar' por un ejemplo cotidiano neutro como 'como intentar clasificar objetos en cajas: primero revisas si entra en la primera caja, si no, en la segunda, y así sucesivamente'. La referencia a Eden es un lugar específico del universo de Spy x Family y se usa para explicar el concepto de encadenamiento de condiciones, lo que viola la regla 2. Luego, añade un ejercicio práctico claro al final: 'Ahora tú: escribe un programa que clasifique notas escolares (menor a 60, 60-79, 80-100) usando if-elif-else. ¿Qué estructura usarías y por qué?'",
+    "indice": 178,
+    "tokens_input": 1416,
+    "tokens_output": 405
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Uso de analogía del universo de Spy x Family para explicar concepto: 'como asegurarte de que tus trabajos para el director estén perfectamente presentados'",
+      "La explicación principal usa una analogía ambiental (trabajos para el director) que mezcla la vida de Damian con el concepto técnico, violando la regla 2",
+      "Aunque hay una pregunta final, no es un ejercicio práctico claro - es más una pregunta de verificación que una propuesta de práctica constructiva"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "Reescribe la explicación eliminando completamente la referencia a 'trabajos para el director'. Restructura así: (1) Primero explica la indentación con un ejemplo neutro (ej: 'como agrupar objetos en cajas etiquetadas'), (2) Luego, si es apropiado, haz una referencia ambiental SEPARADA sobre la vida de Damian sin mezclarla con la explicación técnica (ej: 'Damian tiene que ser muy organizado en sus obligaciones, ¿verdad? Python también lo exige con el código'), (3) Mantén la pregunta final pero hazla más concreta: 'Intenta escribir un pequeño bloque if sin indentar y ejecutalo - ¿qué error recibes? Ahora arreglalo y dime qué cambió'. Esto preserva la personalidad competitiva sin violar la regla de analogías.",
+    "indice": 179,
+    "tokens_input": 1417,
+    "tokens_output": 493
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 180,
+    "tokens_input": 1403,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Usa analogía del anime (Eden) para explicar un concepto de Python",
+      "La referencia a 'calificaciones en Eden' vincula directamente la explicación del concepto con el universo de Spy x Family"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta tiene buena personalidad (orgullosa, competitiva) y plantea un buen ejercicio final, pero comete una violación clara de la regla 2. La frase 'Como las calificaciones en Eden: siempre hay quienes destacan por encima del resto' usa el colegio Eden como analogía para explicar qué es una comparación mayor/menor. Debe eliminarse esta analogía y reemplazarse por una referencia cotidiana neutra (como 'Es como comparar dos cajas o dos números en una lista'). El resto de la explicación (sobre `>`, `<`, y los resultados booleanos) es correcto. Se puede mantener una referencia ambiental separada al final (ej: 'No esperaría que te confundieras con algo tan elemental') ya que eso sí es permitido.",
+    "indice": 181,
+    "tokens_input": 1399,
+    "tokens_output": 395
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 5,
+    "problemas": [
+      "Uso de analogía del anime (Eden) para explicar un concepto de Python",
+      "La referencia a Eden viola la regla de prohibición de nombres y elementos del universo Spy x Family en explicaciones de conceptos"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta tiene buena estructura y personalidad, pero la frase 'Son como las reglas para aprobar un examen en Eden; necesitas una puntuación que sea 'mayor o igual' a cierto valor para pasar' es una analogía del anime que explica el concepto. Debe reemplazarse por un ejemplo cotidiano neutral. Sugerencia: 'Por ejemplo, en un supermercado, si necesitas ser mayor o igual a 18 años para comprar algo, usarías >=. O si el peso de una maleta debe ser menor o igual a 20 kg para viajar, usarías <=' La pregunta final es excelente y sigue el enfoque socrático correctamente.",
+    "indice": 182,
+    "tokens_input": 1388,
+    "tokens_output": 359
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 4,
+    "problemas": [
+      "Usa referencia a 'Eden' (nombre prohibido del universo Spy x Family) en contexto de explicación",
+      "La analogía 'Es como cuando decido si ir a clase o saltármela' es una referencia ambiental pero está mezclada con la explicación del concepto, no separada",
+      "El ejercicio final es correcto pero la violación de reglas anteriores afecta la aprobación general"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "Problema crítico: Eliminar la mención de 'Eden' en la frase 'mis compañeros menos brillantes en Eden tienen ese problema'. Separar claramente la referencia ambiental de la explicación técnica: primero explicar que los operadores de comparación se usan en estructuras `if` con ejemplos neutros (cajas, números, etiquetas), y DESPUÉS hacer el comentario ambiental de forma separada ('Por supuesto, yo tomo decisiones más complejas...'). La estructura `if` debe explicarse con ejemplos cotidianos puros, no con decisiones personales del personaje. El ejercicio final está bien planteado.",
+    "indice": 183,
+    "tokens_input": 1417,
+    "tokens_output": 398
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 5,
+    "problemas": [
+      "Analogía del anime en la explicación del concepto (galleta del director, Imperial Scholar)",
+      "La analogía de 'galleta especial del director' es una referencia ambiental del universo Spy x Family, no ejemplo cotidiano neutro",
+      "El enfoque socrático es débil: plantea una pregunta al final pero la explicación previa ya da la respuesta directa"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": false,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "Cambiar la analogía de la galleta del director e Imperial Scholar por un ejemplo cotidiano neutro. Por ejemplo: 'Imagina que necesitas dos cosas para ver una película: tener dinero Y tener tiempo libre. Si te falta cualquiera de las dos, no puedes ir. Ambas deben ser verdaderas'. La personalidad de Damian está bien (orgulloso y retador), pero las explicaciones deben ser completamente neutrales del universo Spy x Family. El ejercicio final es bueno, pero la explicación previa ya entrega demasiada información, reduciendo el enfoque socrático.",
+    "indice": 184,
+    "tokens_input": 1396,
+    "tokens_output": 380
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 4,
+    "problemas": [
+      "Usa analogías del universo de Spy x Family para explicar conceptos de Python (requisitos para ser reconocido por el padre, evento de caridad, orquesta de la escuela)",
+      "Las analogías están directamente vinculadas a la explicación del concepto, no son referencias ambientales separadas",
+      "Mezcla la personalidad competitiva con ejemplos que pertenecen al universo del anime"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "Elimina las analogías sobre ser 'número uno en el aula', 'ser reconocido por mi padre', 'evento de caridad' y 'concierto de la orquesta'. Reemplázalas con ejemplos cotidianos neutrales como: 'Con `and`, es como tener dos condiciones que ambas deben cumplirse (ejemplo: para entrar al cine necesitas tener edad mínima Y entrada). Con `or`, solo una de las dos basta (ejemplo: puedes pagar con efectivo O con tarjeta)'. Mantén la pregunta final sobre temperatura que está bien planteada, y conserva el tono competitivo de Damian sin mezclar referencias al universo de Spy x Family en las explicaciones técnicas.",
+    "indice": 185,
+    "tokens_input": 1412,
+    "tokens_output": 419
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 186,
+    "tokens_input": 1401,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 187,
+    "tokens_input": 1441,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 5,
+    "problemas": [
+      "Usa analogía del universo de Spy x Family para explicar un concepto de Python (comparación con 'expediente' y 'archivos clasificados')",
+      "No plantea un ejercicio o pregunta de seguimiento claramente definido al final",
+      "La pregunta socrática final ('¿Cómo le indicarías...?') es vaga y no guía específicamente hacia la solución"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": false,
+      "python_correcto": true,
+      "tiene_ejercicio_final": false
+    },
+    "sugerencia_correccion": "Reescribir eliminando la analogía de 'expediente' y 'archivos clasificados'. Reemplazarla con un ejemplo cotidiano neutral como: 'Imagina una receta: los ingredientes principales van en la lista principal, pero los sub-pasos de preparación de cada ingrediente están indentados bajo ese ingrediente'. Luego, plantear un ejercicio claro como: 'Ahora, intenta escribir un bloque if...else donde la línea de código dentro del if esté indentada. ¿Qué ocurre si no lo haces?'. La personalidad de Loid está bien capturada, pero la violación de la regla 2 (prohibición de analogías anime) es crítica.",
+    "indice": 188,
+    "tokens_input": 1395,
+    "tokens_output": 413
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Usa una analogía del universo de Spy x Family para explicar un concepto de Python",
+      "La comparación con 'notas al margen en un informe de inteligencia' y 'mensaje cifrado' son referencias directas al trabajo de espía que explican el concepto",
+      "La explicación debería usar ejemplos cotidianos neutros en lugar de contexto de inteligencia"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta comete la violación principal: usa el contexto de 'informe de inteligencia' y 'mensaje cifrado' como analogía para explicar qué es un comentario. Esto viola la regla 2. Corrección sugerida: 'El símbolo `#` denota un comentario. Cuando el intérprete de Python procesa tu código, cualquier línea que comience con `#` es ignorada por completo. Piénsalo como etiquetas en cajas que el almacén ignora pero que tú escribes para recordar qué hay dentro. Es una comunicación exclusiva para los humanos que revisarán o modificarán el código. Como he visto en mis años de trabajo, la buena documentación es esencial, aunque yo tenga experiencia con informes clasificados.' (separando la referencia ambiental de la explicación técnica). Luego mantener el ejercicio socrático final.",
+    "indice": 189,
+    "tokens_input": 1377,
+    "tokens_output": 454
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 4,
+    "problemas": [
+      "Usa analogía del anime para explicar un concepto de Python: 'codenames distintos para operaciones diferentes' es una analogía de Spy x Family",
+      "Menciona 'WISE' en el ejemplo de código, que es un nombre prohibido del universo de Spy x Family",
+      "La pregunta final no es verdaderamente socrática: da la respuesta (NameError) de forma implícita al decir que el sistema 'buscará una entidad que no existe'",
+      "Falta un ejercicio de práctica real que guíe al estudiante a descubrir por sí mismo"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": false,
+      "python_correcto": true,
+      "tiene_ejercicio_final": false
+    },
+    "sugerencia_correccion": "Reescribir eliminando la analogía de 'codenames' y usar un ejemplo neutro como 'si has declarado una variable usuario = \"Juan\" y luego intentas imprimir Usuario, ¿qué pasará?'. Cambiar 'WISE' por cualquier valor normal. Plantear un ejercicio de práctica real: 'Intenta crear tres variables con el mismo nombre pero diferente capitalización, asigna valores distintos a cada una e imprime todas. ¿Cuántas variables realmente existen? ¿Por qué?'. Esto guía al descubrimiento sin dar la respuesta directa.",
+    "indice": 190,
+    "tokens_input": 1382,
+    "tokens_output": 435
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 4,
+    "problemas": [
+      "Analogía con universo de Spy x Family en la explicación de concepto",
+      "Referencia a 'protocolo de comunicación' y 'misión' mezcladas con la explicación técnica",
+      "El ejemplo de código contiene una referencia ambiental ('Mi misión es aprender') que confunde el concepto",
+      "Falta ejercicio práctico de seguimiento claro"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "Problema principal: La frase 'similar a un protocolo de comunicación mal ejecutado que impide el entendimiento' es una analogía del universo de Spy x Family (los protocolos de comunicación de espías). Debe eliminarse. El ejemplo de código `print(\"Mi misión es aprender\"` también refuerza esta analogía incorrectamente. Corregir así: Mantener la personalidad metódica de Loid pero cambiar: 1) Reemplazar la analogía del protocolo por: 'Un SyntaxError indica que has violado las reglas gramaticales de Python. Es como escribir una carta sin los puntos y comas correctos: el mensaje se vuelve incomprensible.' 2) Cambiar el ejemplo a algo neutral: `print(\"Hola mundo\"` (sin la referencia a 'misión'). 3) La pregunta socrática es correcta, mantenerla. El resultado quedaría con explicación técnica clara, personalidad de Loid preservada (metódico, preciso) y sin analogías del anime.",
+    "indice": 191,
+    "tokens_input": 1416,
+    "tokens_output": 493
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Analogía del anime en la explicación del concepto",
+      "El ejercicio final usa contexto de espías en lugar de ejemplos cotidianos neutrales"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta tiene un buen enfoque socrático y personalidad de Loid bien implementada. Sin embargo, comete dos errores principales:\n\n1. En la introducción usa 'como asegurar la correcta identificación de un objetivo' para explicar operaciones matemáticas - esto es una analogía del universo de espías que viola la regla 2.\n\n2. El ejercicio final ('un equipo de 7 agentes, cada uno con 3 dispositivos...') sigue siendo un contexto de espías, cuando debería ser completamente neutral y cotidiano (ej: '7 cajas con 3 artículos cada una, menos 2 artículos dañados').\n\nSugerencia de corrección:\n- Reemplazar la frase introductoria por algo como: 'Las operaciones matemáticas en Python son herramientas fundamentales para procesar datos.'\n- Cambiar el ejercicio a contexto neutral: 'Imagina que tienes 7 cajas con 3 bolígrafos cada una, pero 2 bolígrafos están rotos. ¿Qué expresión usarías para calcular los bolígrafos en buen estado?'\n\nLas referencias ambientales (como 'como asegurar un objetivo') deben estar completamente separadas de cualquier explicación de concepto Python.",
+    "indice": 192,
+    "tokens_input": 1425,
+    "tokens_output": 500
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Usa analogía del universo de Spy x Family para explicar un concepto (suministros, equipos, archivos encriptados, contenedores)",
+      "La pregunta final contiene una analogía del anime (archivos encriptados) en lugar de un ejemplo cotidiano neutro"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La explicación técnica de `/`, `//` y `%` es correcta y bien estructurada. Sin embargo, viola la regla 2: los ejemplos utilizados (suministros sensibles, equipos, archivos encriptados, contenedores) son análogos del universo de espías de Spy x Family, no ejemplos cotidianos neutros. La primera frase también toca el tema de 'exactitud requerida al dividir recursos sensibles' que es una referencia a la vida como espía, lo cual debería estar separado de la explicación del concepto. CORRECCIÓN: Mantener el mismo contenido técnico pero cambiar los ejemplos: en lugar de 'suministros/equipos', usar 'manzanas en cajas' o 'galletas entre amigos'; en lugar de 'archivos encriptados en contenedores', usar 'libros en estantes' o 'caramelos en bolsas'. La personalidad analítica de Loid se preserva en el tono ('Una consulta pertinente', 'crucial para la precisión'), pero los ejemplos deben ser completamente neutrales.",
+    "indice": 193,
+    "tokens_input": 1463,
+    "tokens_output": 473
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 194,
+    "tokens_input": 1418,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 195,
+    "tokens_input": 1402,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 196,
+    "tokens_input": 1365,
+    "tokens_output": 137
+  },
+  {
+    "indice": 197,
+    "aprobado": null,
+    "error": "JSON inválido: Unterminated string starting at: line 19 column 28 (char 944)",
+    "respuesta_cruda": "{\n  \"aprobado\": false,\n  \"puntuacion\": 6,\n  \"problemas\": [\n    \"Falta de personalidad característica de Loid (no usa 'misión' de forma natural ni mantiene el tono de espía de manera consistente)\",\n    \"La explicación es demasiado directa: revela completamente cómo funcionan los operadores sin guiar "
+  },
+  {
+    "aprobado": true,
+    "puntuacion": 9,
+    "problemas": [],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": false,
+      "referencia_ambiental_correcta": true,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "N/A",
+    "indice": 198,
+    "tokens_input": 1375,
+    "tokens_output": 137
+  },
+  {
+    "aprobado": false,
+    "puntuacion": 6,
+    "problemas": [
+      "Usa analogía del universo Spy x Family para explicar un concepto de Python: 'protocolo de acción' y 'nivel de alerta' que evoca el contexto de espionaje",
+      "La explicación del concepto de if/comparadores mezcla lenguaje técnico con referencias de misión que actúan como analogía",
+      "El ejercicio final usa terminología del universo (código_entrada, 'Acceso concedido') que refuerza la analogía"
+    ],
+    "detalle": {
+      "personalidad_correcta": true,
+      "analogia_anime_en_explicacion": true,
+      "referencia_ambiental_correcta": false,
+      "enfoque_socratico": true,
+      "python_correcto": true,
+      "tiene_ejercicio_final": true
+    },
+    "sugerencia_correccion": "La respuesta viola la regla 2. La frase 'Es como tener un protocolo de acción que solo se activa si se cumplen ciertas condiciones predefinidas, por ejemplo, si un nivel de alerta alcanza un punto crítico' es una analogía del universo de espionaje aplicada a explicar if/comparadores. Debe reemplazarse con un ejemplo cotidiano y neutral, como: 'Es como una receta que dice: si la temperatura alcanza 100°C, entonces hierve el agua'. La referencia a 'misiones complejas' debe ser una referencia ambiental separada, no parte de la explicación técnica. El ejercicio final debería usar variables neutras como 'contraseña' o 'numero' en lugar de 'codigo_entrada', para evitar reforzar la analogía.",
+    "indice": 199,
+    "tokens_input": 1406,
+    "tokens_output": 453
+  }
+]
