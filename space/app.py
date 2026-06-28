@@ -136,6 +136,7 @@ def respond(message, history, character):
     inputs = tokenizer.apply_chat_template(
         messages,
         return_tensors="pt",
+        return_dict=True,        # devuelve input_ids + attention_mask
         add_generation_prompt=True,
         enable_thinking=False,   # desactiva el modo razonamiento de Qwen3
     ).to(model.device)
@@ -147,7 +148,7 @@ def respond(message, history, character):
     )
 
     generation_kwargs = dict(
-        input_ids=inputs,
+        **inputs,
         max_new_tokens=512,
         temperature=0.7,
         top_p=0.9,
