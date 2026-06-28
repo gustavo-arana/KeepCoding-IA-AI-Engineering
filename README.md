@@ -132,6 +132,30 @@ Dashboard de uso de la API de Anthropic.
 
 Se hace el deploy en un Space de HF usando el archivo [`space/app.py`](space/app.py) con Gradio, el modelo base Qwen3-8B y el adapter `garana-osorio/waku-code-qlora-adapter` generado en el entrenamiento.
 
+![hf-4](images/hf-4.jpg)
+
+Archivos del Space `garana-osorio/waku-code` en Hugging Face: `app.py` con la lógica de Gradio, `requirements.txt` con las dependencias y el `README.md` de configuración del Space.
+
+![hf-6](images/hf-6.jpg)
+
+Interfaz del Space en ejecución con el dropdown para seleccionar entre los 5 personajes-tutor.
+
+![hf-7](images/hf-7.jpg)
+
+Respuesta de Anya Forger a "¿Qué es una variable?".
+
+![hf-8](images/hf-8.jpg)
+
+Respuesta de Loid Forger a "¿Qué es una variable?".
+
+![hf-9](images/hf-9.jpg)
+
+Respuesta de Damian Desmond a "¿Qué es una variable?".
+
+![hf-0](images/hf-0.jpg)
+
+Perfil de Hugging Face con los tres recursos del proyecto: Space, adapter QLoRA y el dataset.
+
 ## Requisitos
 
 - **Kaggle** — debe estar autenticada con número de teléfono para acceder a GPU T4. Se decide Kaggle sobre Colab porque permite ejecutar notebooks hasta por 12 horas.
